@@ -24,8 +24,7 @@ MATLAB
 From MATLAB run ``steinerberger``. A screen animation occurs,
 writing an AVI file, ending with a plot like this:
 
-![landscape function](landscape.png
-"Lu-Steinerberger landscape function scaled by k with six extremal eigenfunctions shifted by their log eigenvalues, for n=1000")
+![landscape function](landscape.png "Lu-Steinerberger landscape function scaled by k with six extremal eigenfunctions shifted by their log eigenvalues, for n=1000")
 
 This is for matrix order ``n=1e3`` and half-bandwidth 2.
 Since sparse matrices are used, you can easily go to ``n=1e5``
